@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "プリーズ",
+  "base_artist": "メガテラ・ゼロ",
+  "createdAt": "2026-03-17T05:33:19.387659Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シンガロング、プリーズ!",
+      "artist": "Happy Around!",
+      "has_synced": true,
+      "path": "select/01_シンガロング、プリーズ!_Happy_Around!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プリーズ フリーズ",
+      "artist": "逢坂大河(CV: 釘宮理恵)・櫛枝実乃梨(CV: 堀江由衣)・川嶋亜美(CV: 喜多村英梨)",
+      "has_synced": true,
+      "path": "select/02_プリーズ_フリーズ_逢坂大河(CV__釘宮理恵)・櫛枝実乃梨(CV__堀江由衣)・川嶋亜美(CV__喜多村英梨).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プリーズ フリーズ",
+      "artist": "逢坂大河・櫛枝実乃梨・川嶋亜美(釘宮理恵、堀江由衣、喜多村英梨)",
+      "has_synced": true,
+      "path": "select/03_プリーズ_フリーズ_逢坂大河・櫛枝実乃梨・川嶋亜美(釘宮理恵、堀江由衣、喜多村英梨).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プリーズ フリーズ(off vocal ver.)",
+      "artist": "逢坂大河・櫛枝実乃梨・川嶋亜美(釘宮理恵、堀江由衣、喜多村英梨)",
+      "has_synced": true,
+      "path": "select/04_プリーズ_フリーズ(off_vocal_ver.)_逢坂大河・櫛枝実乃梨・川嶋亜美(釘宮理恵、堀江由衣、喜多村英梨).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "イージー・ツ・プリーズ",
+      "artist": "Coldplay",
+      "has_synced": false,
+      "path": "select/05_イージー・ツ・プリーズ_Coldplay.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プリーズ・ミスター・ポストマン(Please Mr. Postman)",
+      "artist": "The Carpenters",
+      "has_synced": false,
+      "path": "select/06_プリーズ・ミスター・ポストマン(Please_Mr._Postman)_The_Carpenters.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "プリーズ　フリーズ",
+      "artist": "逢坂大河(CV:釘宮理恵),櫛枝実乃梨(CV:堀江由衣),川嶋亜美(CV:喜多村英梨)",
+      "has_synced": false,
+      "path": "select/07_プリーズ_フリーズ_逢坂大河(CV_釘宮理恵),櫛枝実乃梨(CV_堀江由衣),川嶋亜美(CV_喜多村英梨).txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "プリーズ、プリーズ、プリーズ。",
+      "artist": "MIYAVI",
+      "has_synced": false,
+      "path": "select/08_プリーズ、プリーズ、プリーズ。_MIYAVI.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "プリーズ フリーズ",
+      "artist": "櫛枝実乃梨",
+      "has_synced": true,
+      "path": "select/09_プリーズ_フリーズ_櫛枝実乃梨.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "プリーズ フリーズ (off vocal ver.)",
+      "artist": "櫛枝実乃梨",
+      "has_synced": true,
+      "path": "select/10_プリーズ_フリーズ_(off_vocal_ver.)_櫛枝実乃梨.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "プリーズ フリーズ",
+      "artist": "逢坂大河・櫛枝実乃梨・川嶋亜美(CV:釘宮理恵・堀江由衣・喜多村英梨)",
+      "has_synced": true,
+      "path": "select/11_プリーズ_フリーズ_逢坂大河・櫛枝実乃梨・川嶋亜美(CV_釘宮理恵・堀江由衣・喜多村英梨).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "スライム　プリーズ",
+      "artist": "ユニコーン",
+      "has_synced": false,
+      "path": "select/12_スライム_プリーズ_ユニコーン.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "プリーズ ミニスカ ポストウーマン!",
+      "artist": "スマイレージ",
+      "has_synced": false,
+      "path": "select/13_プリーズ_ミニスカ_ポストウーマン!_スマイレージ.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プリーズ",
+      "artist": "メガテラ・ゼロ",
+      "has_synced": false,
+      "path": "select/pl_01_プリーズ_メガテラ・ゼロ.txt"
+    }
+  ]
+}
